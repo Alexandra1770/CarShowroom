@@ -1,0 +1,17 @@
+.add {
+    position: absolute;
+    top: 120px;
+    right: 50px;
+    background-color: black;
+    color: white;
+}
+button {
+    padding: 5px;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    font-family: Arial;
+    border-radius: 3px;
+    cursor: pointer;
+}

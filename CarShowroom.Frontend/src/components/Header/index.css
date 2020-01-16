@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-family: "Arial";
+    font-weight: lighter;
+    padding: 10px;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+    font-family: Arial;
+
+}
+
